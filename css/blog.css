@@ -1,0 +1,22 @@
+.clear { clear:both; }
+#menu { margin-top: 20px; padding-left: 20px; }
+#menu li { display:inline; margin-right: 30px; font-weight: bold; }
+#cat select { padding-left: 20px; width: 120px; height: 25px; }
+#blog_title { margin-top: 30px; padding-left: 20px; }
+#blog_write { margin-top: 20px; padding-left: 20px; height:130px; }
+#blog_write .textarea { float: left;	width: 80%; margin-top: 10px; }
+#blog_write .button { float: right; width: 18%; margin-top: 10px; }
+#blog_write textarea { width: 100%;	height: 120px; border:solid 1px #cccccc; }
+#blog_write button { padding: 50px; }
+#blog_content { margin: 10px 20px; padding: 20px 0; border-top:solid 1px green;  margin-top: 20px; }
+#writer_info li { display: inline-block; margin-right: 20px; }
+#ripple { margin-top: 10px;	padding-left: 20px; }
+#ripple_title {	padding-top:10px; padding-left:10px; }
+#ripple_title li { display:inline; margin-right: 20px; }
+#ripple_content { padding:10px; border-bottom:dotted 1px #cccccc; }
+#ripple_insert { margin-top:10px; }
+#ripple_textarea { width: 85%; float:left; }
+#ripple_textarea textarea {	width: 100%; height:63px; border:solid 1px #cccccc; }
+#ripple_button { width: 13%; float:right; }
+#ripple_button button {	padding: 20px 10px; }
+#page_num {	margin:20px; text-align:center; }
